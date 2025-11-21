@@ -186,3 +186,26 @@ body {
     color: #6b7280;
     line-height: 1.6;
 }
+@media (max-width: 768px) {
+    .features {
+        padding: 60px 0; 
+    }
+
+    .section-header {
+        margin-bottom: 40px;
+        padding: 0 15px; 
+    }
+
+    .section-header h2 {
+        font-size: 1.75rem; 
+    }
+
+    .features-grid {
+        grid-template-columns: 1fr; 
+        gap: 25px; 
+    }
+
+    .feature-card {
+        padding: 25px; 
+    }
+}
