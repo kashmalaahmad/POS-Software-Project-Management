@@ -37,6 +37,30 @@
             </div>
         </div>
     </header>
-    
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-header">
+                <h2>Why Choose QuickPOS?</h2>
+                <p>Everything you need to run your store efficiently.</p>
+            </div>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="icon">📦</div>
+                    <h3>Inventory Management</h3>
+                    <p>Track stock in real-time and get low-stock alerts automatically.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">📊</div>
+                    <h3>Sales Analytics</h3>
+                    <p>Visualize your sales data and understand your customers better.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🔌</div>
+                    <h3>Easy Integration</h3>
+                    <p>Connect seamlessly with your existing accounting and payment tools.</p>
+                </div>
+            </div>
+        </div>
+    </section>
     </body>
 </html>
