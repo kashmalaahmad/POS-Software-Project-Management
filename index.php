@@ -103,6 +103,45 @@
             </div>
         </div>
     </section>
+     <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2>Get in Touch</h2>
+                <p>Have questions? We'd love to hear from you.</p>
+            </div>
+            
+            <div class="contact-wrapper">
+                <div class="form-header">
+                    <h3>Send us a Message</h3>
+                    <p>Our team typically replies within 2 hours.</p>
+                </div>
+
+                <form action="contact_process.php" method="POST" class="contact-form">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="name">Full Name</label>
+                            <input type="text" id="name" name="name" placeholder="Ex. John Doe" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email" placeholder="name@company.com" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">How can we help?</label>
+                        <textarea id="message" name="message" rows="5" placeholder="Tell us about your project or question..." required></textarea>
+                    </div>
+
+                    <button type="submit" class="btn-primary btn-block">
+                        Send Message 
+                        <span style="margin-left:8px">→</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
     <footer class="footer">
         <div class="container footer-container">
             <div class="footer-col">
