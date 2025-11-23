@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuickPOS - The Modern POS Solution</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -33,7 +33,7 @@
                 <a href="#pricing" class="btn-primary">Get Started for Free</a>
             </div>
             <div class="hero-image">
-                <img src="images/pos.png" alt="POS Software Dashboard">
+                <img src="assets/images/pos.png" alt="POS Software Dashboard">
             </div>
         </div>
     </header>
@@ -169,5 +169,6 @@
             <p>&copy; 2025 QuickPOS. All rights reserved.</p>
         </div>
     </footer>
+    
     </body>
 </html>
