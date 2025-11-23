@@ -62,5 +62,46 @@
             </div>
         </div>
     </section>
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <div class="section-header">
+                <h2>Simple Pricing</h2>
+                <p>Choose the plan that fits your business scale.</p>
+            </div>
+            <div class="pricing-grid">
+                <div class="pricing-card">
+                    <h3>Basic</h3>
+                    <div class="price">$29<span>/mo</span></div>
+                    <ul class="features-list">
+                        <li>1 Register</li>
+                        <li>Basic Reporting</li>
+                        <li>Email Support</li>
+                    </ul>
+                    <a href="#" class="btn-outline">Choose Basic</a>
+                </div>
+                <div class="pricing-card popular">
+                    <div class="badge">Most Popular</div>
+                    <h3>Pro</h3>
+                    <div class="price">$79<span>/mo</span></div>
+                    <ul class="features-list">
+                        <li>3 Registers</li>
+                        <li>Advanced Analytics</li>
+                        <li>24/7 Support</li>
+                    </ul>
+                    <a href="#" class="btn-primary">Choose Pro</a>
+                </div>
+                <div class="pricing-card">
+                    <h3>Enterprise</h3>
+                    <div class="price">Custom</div>
+                    <ul class="features-list">
+                        <li>Unlimited Registers</li>
+                        <li>API Access</li>
+                        <li>Dedicated Account Manager</li>
+                    </ul>
+                    <a href="#" class="btn-outline">Contact Sales</a>
+                </div>
+            </div>
+        </div>
+    </section>
     </body>
 </html>
