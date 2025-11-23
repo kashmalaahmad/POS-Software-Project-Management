@@ -24,5 +24,19 @@
             </div>
         </div>
     </nav>
+
+     <header class="hero">
+        <div class="container hero-container">
+            <div class="hero-text">
+                <h1>The Last POS System You'll Ever Need</h1>
+                <p>Streamline your sales, manage inventory, and grow your business with QuickPOS.</p>
+                <a href="#pricing" class="btn-primary">Get Started for Free</a>
+            </div>
+            <div class="hero-image">
+                <img src="images/pos.png" alt="POS Software Dashboard">
+            </div>
+        </div>
+    </header>
+    
     </body>
 </html>
