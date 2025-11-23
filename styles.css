@@ -289,3 +289,22 @@ body {
     background: #111827;
     color: white;
 }
+@media (max-width: 768px) {
+    .pricing {
+        padding: 60px 0; 
+    }
+    .pricing-grid {
+        grid-template-columns: 1fr; 
+        gap: 40px; 
+    }
+    .pricing-card {
+        padding: 30px 20px; 
+    }
+    .pricing-card.popular {
+        transform: none; 
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    .pricing-card .price {
+        font-size: 2.5rem; 
+    }
+}
