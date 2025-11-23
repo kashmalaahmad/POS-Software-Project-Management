@@ -103,5 +103,32 @@
             </div>
         </div>
     </section>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-col">
+                <h4>QuickPOS</h4>
+                <p>Making business simple since 2025.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Links</h4>
+                <ul>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Socials</h4>
+                <div class="social-links">
+                    <a href="#">Twitter</a>
+                    <a href="#">LinkedIn</a>
+                    <a href="#">Facebook</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 QuickPOS. All rights reserved.</p>
+        </div>
+    </footer>
     </body>
 </html>
