@@ -12,21 +12,18 @@ The goal of this project is to build a **pixel-perfect, modern landing page** fo
 - Delivering a beautiful, modern UI/UX  
 - Smooth, responsive, high-quality interface  
 
-### Process Rigor  
-Mastering professional tools:  
-- **Jira** (project management)  
-- **GitHub** (source control)  
-- **Slack** (team communication)
+## 2. Team Setup
 
----
+**Team Size:** 3  
 
-## 👥 2. Team Setup
+**Team Members:**  
 
-**Team Size:** 3
-**Team Members:** 
-**Tech Lead:** Anna Zubair 
-**Lead Developer:** Muhammad Basim
+**Tech Lead:** Anna Zubair  
+
+**Lead Developer:** Muhammad Basim  
+
 **Project Manager (PM):** Kashmala Ahmad
+
 
 ### Product Owner Responsibilities
 - Define high-level features  
@@ -34,19 +31,19 @@ Mastering professional tools:
 
 ### Combined Roles in This Project
 
-#### 🧭 Project Manager (PM) 
+#### Project Manager (PM) 
 - Manages Jira board  
 - Runs Sprint Planning, Daily Standups, Reviews, Retrospectives  
 - Writes test cases  
 - Logs bugs in Jira  
 
-#### 🛠 Tech Lead
+#### Tech Lead
 - Manages GitHub repository  
 - Defines branching strategy (GitFlow)  
 - Ensures main branch stays stable  
 - Reviews pull requests  
 
-#### 💻 Lead Developer
+#### Lead Developer
 - Implements main features  
 - Works closely with Tech Lead on code quality  
 
@@ -65,14 +62,14 @@ Mastering professional tools:
 - PRs, commits, and ticket updates in Slack  
 
 ---
-### 🟦 **Epic 1: Navigation & Header**
+### **Epic 1: Navigation & Header**
 - Logo  
 - Links: Features | Pricing | Contact  
 - “Sign Up” button  
 
 ---
 
-### 🟨 **Epic 2: Hero Section**
+### **Epic 2: Hero Section**
 - Headline (e.g., “The Last POS System You’ll Ever Need”)  
 - Sub-headline  
 - CTA button: **Get Started for Free**  
@@ -80,7 +77,7 @@ Mastering professional tools:
 
 ---
 
-### 🟩 **Epic 3: Features Section**
+### **Epic 3: Features Section**
 Display 3–4 features, each with an icon + short text:  
 - Inventory Management  
 - Sales Analytics  
@@ -89,7 +86,7 @@ Display 3–4 features, each with an icon + short text:
 
 ---
 
-### 🟧 **Epic 4: Pricing Section**
+### **Epic 4: Pricing Section**
 Three-tier pricing table:  
 - Basic  
 - Pro  
@@ -97,7 +94,7 @@ Three-tier pricing table:
 
 ---
 
-### 🟫 **Epic 5: Contact Us Form**
+### **Epic 5: Contact Us Form**
 Form fields:  
 - Name  
 - Email  
@@ -111,7 +108,7 @@ Form requirements:
 
 ---
 
-### ⚫ **Epic 6: Footer**
+### **Epic 6: Footer**
 - Social media icons  
 - Copyright text  
 
