@@ -357,3 +357,18 @@ body {
     color: #6b7280;
     font-size: 0.875rem;
 }
+@media (max-width: 768px) {
+    .footer {
+        padding: 40px 0 20px; 
+    }
+
+    .footer-container {
+        gap: 30px; 
+        text-align: center; 
+    }
+
+    .social-links {
+        justify-content: center; 
+        margin-top: 10px;
+    }
+}
