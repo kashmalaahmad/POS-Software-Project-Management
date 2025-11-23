@@ -120,7 +120,7 @@
                     <div class="form-grid">
                         <div class="form-group">
                             <label for="name">Full Name</label>
-                            <input type="text" id="name" name="name" placeholder="Ex. John Doe" required>
+                            <input type="text" id="name" name="name" placeholder="Ex. John Doe" required minlength="2">
                         </div>
                         
                         <div class="form-group">
@@ -131,7 +131,7 @@
                     
                     <div class="form-group">
                         <label for="message">How can we help?</label>
-                        <textarea id="message" name="message" rows="5" placeholder="Tell us about your project or question..." required></textarea>
+                        <textarea id="message" name="message" rows="5" placeholder="Tell us about your project or question..." required minlength="10"></textarea>
                     </div>
 
                     <button type="submit" class="btn-primary btn-block">
