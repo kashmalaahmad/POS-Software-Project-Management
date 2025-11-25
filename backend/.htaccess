@@ -1,0 +1,8 @@
+# Prevent users from listing files in this directory
+Options -Indexes
+
+# Protect the processing script from direct access if needed (Optional basic security)
+<Files contact_process.php>
+    Order Allow,Deny
+    Allow from all
+</Files>
