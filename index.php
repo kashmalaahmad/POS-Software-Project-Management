@@ -169,6 +169,18 @@
             <p>&copy; 2025 QuickPOS. All rights reserved.</p>
         </div>
     </footer>
-    
+    <script>
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const status = urlParams.get('status');
+
+            if (status === 'success') {
+                alert('SUCCESS: Your message has been sent to QuickPOS!');
+                window.history.replaceState(null, null, window.location.pathname);
+            } else if (status === 'error') {
+                alert('ERROR: Please ensure all fields are filled correctly.');
+            }
+        }
+    </script>
     </body>
 </html>
