@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     if (!empty($errors)) {
-        header("Location: index.php?status=error");
+        header("Location: ../index.php?status=error");
         exit();
     }
 
@@ -28,11 +28,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = "New Message from $name";
     $email_content = "Name: $name\nEmail: $email\n\nMessage:\n$message";
 
-    header("Location: thank-you.html");
+    header("Location: ../thankyou.html");
     exit();
 
 } else {
-    header("Location: index.php");
+    header("Location: ../index.php");
     exit();
 }
 ?>

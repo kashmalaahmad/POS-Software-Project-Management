@@ -116,7 +116,7 @@
                     <p>Our team typically replies within 2 hours.</p>
                 </div>
 
-                <form action="contact_process.php" method="POST" class="contact-form">
+                <form action="backend/contact_process.php" method="POST" class="contact-form">
                     <div class="form-grid">
                         <div class="form-group">
                             <label for="name">Full Name</label>
