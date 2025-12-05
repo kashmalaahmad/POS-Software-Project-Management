@@ -11,7 +11,7 @@
 
     <nav class="navbar">
         <div class="container nav-container">
-            <a href="#" class="logo">QuickPOS</a>
+            <a href="#" class="logo">QuickPOS1</a>
 
             <ul class="nav-links">
                 <li><a href="#features">Features</a></li>
