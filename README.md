@@ -1,4 +1,4 @@
-# QuickPOS 
+# EdgePOS 
 A professional, responsive, PHP-based landing page developed using Agile practices and industry-standard tools (Jira, GitHub, Slack).
 
 ---
